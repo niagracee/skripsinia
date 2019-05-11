@@ -1,0 +1,2 @@
+# skripsinia
+skripsiku
